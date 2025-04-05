@@ -1,1 +1,7 @@
 *.lock
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/
+*.csv
+.DS_Store
+*/.DS_Store
+data/*.xlsx

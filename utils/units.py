@@ -14,6 +14,7 @@ nm = 1e-9
 Hz = 1
 kHz = 1e3
 MHz = 1e6
+GHz = 1e9
 
 # angle
 rad = 1
@@ -23,4 +24,9 @@ mrad = 1e-3
 W = 1
 mW = 1e-3
 uW = 1e-6
+
+# temp
+K = 1
+mK = 1e-3
+uK = 1e-6
 
